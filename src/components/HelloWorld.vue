@@ -1,6 +1,8 @@
 <template>
-  <div class="hello">
-
+  <div class="boss-tree__input">
+    <!-- <bs-button></bs-button> -->
+    <!-- <bs-article-steps></bs-article-steps> -->
+    <bs-card-menu></bs-card-menu>
   </div>
 </template>
 
